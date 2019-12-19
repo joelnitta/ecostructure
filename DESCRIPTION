@@ -36,10 +36,13 @@ Imports:
     Biobase,
     sf,
     maptpx,
-    CountClust (>= 1.6.2)
+    CountClust (>= 1.6.2),
+    methClust (>= 0.1.0)
 Suggests:
     knitr, BiocStyle, Biobase, roxygen2, RColorBrewer, devtools, xtable, Rcpp
 VignetteBuilder: knitr
 biocViews: Software, Visualization, Ecology
-Remotes: kkdey/methClust, kkdey/CountClust
+Remotes:  
+    kkdey/CountClust,
+    joelnitta/methClust
 RoxygenNote: 6.0.1
