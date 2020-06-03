@@ -44,5 +44,5 @@ VignetteBuilder: knitr
 biocViews: Software, Visualization, Ecology
 Remotes:  
     kkdey/CountClust,
-    joelnitta/methClust
+    kkdey/methClust
 RoxygenNote: 6.0.1
